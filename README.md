@@ -1,42 +1,38 @@
-# Advanced Calculator
+# Simple Calculator with Tkinter
 
-A modern scientific calculator built with Python and Tkinter.
+A simple calculator built with Python and Tkinter for beginners who want to learn GUI programming.
 
 ## Features
 
-* Basic arithmetic operations (+, -, ×, ÷)
-* Power calculations
-* Square root
-* Trigonometric functions (sin, cos, tan)
-* Logarithm (log10) and natural logarithm (ln)
-* Parentheses support
-* Backspace and clear functions
-* Modern dark-themed user interface
-* Error handling for invalid expressions
+* Clean and simple interface
+* Basic arithmetic operations
+* Built with Python and Tkinter
+* Beginner-friendly source code
+* Lightweight and easy to use
 
 ## Download
 
-Download the latest executable from the Releases page:
+Download the latest version from the Releases page:
 
-https://github.com/python-dev-real/advanced-calculator/releases/latest
+https://github.com/python-dev-real/Simple-calculator-with-tkinter/releases/latest
 
 ## Installation
 
 1. Open the Releases page.
-2. Download the latest `calculator.exe` file.
-3. Run the executable.
+2. Download the latest executable file.
+3. Run the application.
 
-No Python installation is required.
+No Python installation is required when using the executable version.
 
-## Requirements
+## Built With
 
-* Windows 10 or later
+* Python
+* Tkinter
 
-## Version
+## Purpose
 
-Current Version: v1.0.0
+This project was created as a simple example for learning how to build desktop applications with Tkinter.
 
 ## Author
 
 GitHub: python-dev-real
-
